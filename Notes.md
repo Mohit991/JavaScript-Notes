@@ -5,7 +5,7 @@
 
 We will create three files in our project index.html, index.js and styles.css.  
 We will link CSS and JS files to our HTML file.  
-Folder Structure:  
+### Folder Structure:  
 <img width="221" alt="{D3011B63-C307-4764-92AB-6B1B4C293A40}" src="https://github.com/user-attachments/assets/b34823f0-5b6f-4c29-bbc8-a2b4fd387470">  
 
 ### index.html
