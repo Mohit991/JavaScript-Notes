@@ -1,5 +1,5 @@
 # JavaScript
-## Basics
+## Intro
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/825379ce-e1c3-4c5b-b25b-b5aaef9a0dc1">  
 <br>
 
@@ -15,11 +15,11 @@ We will link CSS and JS files to our HTML file.
 ![image](https://github.com/user-attachments/assets/46bde9db-f96e-4299-b51c-cb61ba1d5feb)
   
 ### index.js  
-![image](https://github.com/user-attachments/assets/5ad5b7c8-61cb-46bc-809e-688dc0f55f11)
-  
+![image](https://github.com/user-attachments/assets/5ad5b7c8-61cb-46bc-809e-688dc0f55f11)  
 
+## Variables
+![image](https://github.com/user-attachments/assets/9428008c-ae90-4b7e-abb8-2b928b404ce7)  
 
-
-
-
+## Arthmatic Operators
+![image](https://github.com/user-attachments/assets/d72caee7-206a-4b1e-87b8-54e14173b601)  
 
