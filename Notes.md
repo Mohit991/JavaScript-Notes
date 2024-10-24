@@ -23,3 +23,41 @@ We will link CSS and JS files to our HTML file.
 ## Arthmatic Operators
 ![image](https://github.com/user-attachments/assets/d72caee7-206a-4b1e-87b8-54e14173b601)  
 
+## User Input
+### index.html
+![image](https://github.com/user-attachments/assets/ec2e5307-f008-4359-9281-af8e4c458db6)  
+
+### index.js
+![image](https://github.com/user-attachments/assets/9073e4ec-f63b-41f9-8e3c-2c165ce42b3b)  
+
+## Type Conversion
+![image](https://github.com/user-attachments/assets/790c89a5-2e20-4b8e-a077-3b52355a0386)  
+
+## Const
+![image](https://github.com/user-attachments/assets/db036d87-8ae6-430c-8579-f4f829c8697b)  
+
+## Counter Program
+### index.html
+![image](https://github.com/user-attachments/assets/de1fc99d-7729-4f7e-b16d-13360ce51edf)  
+
+### index.js
+![image](https://github.com/user-attachments/assets/cfe15019-e59f-4a7a-9b93-d1f1bbc87a4a)  
+
+### styles.css
+![image](https://github.com/user-attachments/assets/9527a542-1758-4530-8ca3-05eb70bddf67)  
+
+## Math
+![image](https://github.com/user-attachments/assets/3fdff15d-769c-491f-bc18-f58ab45400e6)  
+
+
+
+
+
+
+
+
+
+
+
+
+
