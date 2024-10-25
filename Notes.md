@@ -61,6 +61,23 @@ We will link CSS and JS files to our HTML file.
 ## Switch Statement
 ![image](https://github.com/user-attachments/assets/2d84274e-5651-430c-a1ac-cc9216ae2969)
 
+## String Methods
+![image](https://github.com/user-attachments/assets/0b42d606-9913-4baf-84b1-8a2891a1f072)
+
+## String Slicing
+![image](https://github.com/user-attachments/assets/de3e1dcb-9f5a-4e07-9e17-f256aa806fc4)  
+
+## Method Chaining
+![image](https://github.com/user-attachments/assets/26a6195c-a476-4737-9771-f822f22c1498)  
+
+
+
+
+
+
+
+
+
 
 
 
