@@ -49,6 +49,23 @@ We will link CSS and JS files to our HTML file.
 ## Math
 ![image](https://github.com/user-attachments/assets/3fdff15d-769c-491f-bc18-f58ab45400e6)  
 
+## Random Number Generator
+![image](https://github.com/user-attachments/assets/c8c20254-a810-4200-bc84-383e9a57edcb)  
+
+## If Statement
+![image](https://github.com/user-attachments/assets/005595f0-8207-4bf9-aff1-f359508aa241)  
+
+## Ternary Operator
+![image](https://github.com/user-attachments/assets/f7cce4e7-d58f-4df0-84bf-6a7e2be06600)
+
+## Switch Statement
+![image](https://github.com/user-attachments/assets/2d84274e-5651-430c-a1ac-cc9216ae2969)
+
+
+
+
+
+
 
 
 
