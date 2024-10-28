@@ -70,6 +70,20 @@ We will link CSS and JS files to our HTML file.
 ## Method Chaining
 ![image](https://github.com/user-attachments/assets/26a6195c-a476-4737-9771-f822f22c1498)  
 
+## Logical Operators
+![image](https://github.com/user-attachments/assets/53482609-08f3-4666-952c-d56e6e6b0eaa)  
+
+## While Loop
+![image](https://github.com/user-attachments/assets/528efca7-4d31-4796-a527-b672e6e5d04a)  
+
+## For Loop
+![image](https://github.com/user-attachments/assets/291b4e4e-e4b1-4937-aa7f-3f78ba0e9b05)  
+
+## Number Guessing Game
+![image](https://github.com/user-attachments/assets/2fd072a2-302c-48e8-ad67-f59b861b20cd)
+
+## Functions
+![image](https://github.com/user-attachments/assets/0a48baa5-ef1a-4e6f-a5b5-414293547452)  
 
 
 
@@ -79,19 +93,6 @@ We will link CSS and JS files to our HTML file.
 
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
