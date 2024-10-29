@@ -94,6 +94,29 @@ We will link CSS and JS files to our HTML file.
 ## Spread Operator
 ![image](https://github.com/user-attachments/assets/526ff4af-8df6-4aa2-bbe1-7f5319d3833c) 
 
+## Rest Parameters
+![image](https://github.com/user-attachments/assets/b5ee189c-6ede-4b96-aee7-22affe233599)
+
+## Callbacks
+![image](https://github.com/user-attachments/assets/4b88dcca-be64-4172-9a38-96a4fc99bf69)
+
+## forEach()
+![image](https://github.com/user-attachments/assets/7aa7c40d-8672-4927-ba80-1a1b8c51cc2a)
+
+## map()
+![image](https://github.com/user-attachments/assets/fee5ec61-be33-4693-9105-15483284851a)
+
+## filter()
+![image](https://github.com/user-attachments/assets/05f49837-7012-4b19-9345-adee3c347446)
+
+## reduce()
+![image](https://github.com/user-attachments/assets/bc2c99d9-4e65-4d1e-b1dc-17070eebba56)
+
+
+
+
+
+
 
 
 
