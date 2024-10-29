@@ -85,6 +85,12 @@ We will link CSS and JS files to our HTML file.
 ## Functions
 ![image](https://github.com/user-attachments/assets/0a48baa5-ef1a-4e6f-a5b5-414293547452)  
 
+## Variable Scope
+![image](https://github.com/user-attachments/assets/d9a0e011-fb4a-42d4-94f1-fd7708b93975)  
+
+
+
+
 
 
 
