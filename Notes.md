@@ -85,6 +85,20 @@ We will link CSS and JS files to our HTML file.
 ## Functions
 ![image](https://github.com/user-attachments/assets/0a48baa5-ef1a-4e6f-a5b5-414293547452)  
 
+## Variable Scope
+![image](https://github.com/user-attachments/assets/d9a0e011-fb4a-42d4-94f1-fd7708b93975)  
+
+## Arrays
+![image](https://github.com/user-attachments/assets/f9ef254a-7ea7-462d-b649-45802d90e599)  
+
+## Spread Operator
+![image](https://github.com/user-attachments/assets/526ff4af-8df6-4aa2-bbe1-7f5319d3833c) 
+
+
+
+
+
+
 
 
 
