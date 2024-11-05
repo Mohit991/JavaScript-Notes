@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: rgb(224, 185, 112);
+}
+
+#clock-container {
+    display: flex;
+    justify-content: center;
+}
+
+#clock {
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+}
