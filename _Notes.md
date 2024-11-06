@@ -176,6 +176,21 @@ We will link CSS and JS files to our HTML file.
 ### Output
 ![{94CF6626-D220-4987-9BD6-158808BC29DB}](https://github.com/user-attachments/assets/3db0bbb1-f7c6-4fe5-9278-823697663bc0)
 
+## Stopwatch (HTML, CSS, JS)
+### HTML
+![image](https://github.com/user-attachments/assets/e84de454-7c7b-4aec-91d6-dabdf4dfaea3)
+
+### CSS
+![image](https://github.com/user-attachments/assets/05c3ee40-a541-47a1-b990-49271d1e659a)
+
+### JS
+![image](https://github.com/user-attachments/assets/7fb2616e-8340-4330-9e15-ffa0cc240c29)
+
+
+
+
+
+
 
 
 
