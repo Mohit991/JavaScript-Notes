@@ -186,6 +186,19 @@ We will link CSS and JS files to our HTML file.
 ### JS
 ![image](https://github.com/user-attachments/assets/7fb2616e-8340-4330-9e15-ffa0cc240c29)
 
+## ES6 Modules
+### index.js
+![image](https://github.com/user-attachments/assets/24729026-fde0-4f93-a74d-6af0f353f3ae)
+
+### mathUtils.js
+![image](https://github.com/user-attachments/assets/e22eb897-ce56-4959-a6de-8223521b93f4)
+
+
+
+
+
+
+
 
 
 
