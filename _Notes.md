@@ -199,3 +199,16 @@ We will link CSS and JS files to our HTML file.
 ## Error Handling
 ![image](https://github.com/user-attachments/assets/39d20d78-32e8-4621-8ba3-95373d14b8a9)
 
+## Calculator
+### HTML
+![image](https://github.com/user-attachments/assets/2c9512ef-e0e1-4dcc-9c39-83865766eafb)
+
+### CSS
+![image](https://github.com/user-attachments/assets/ca3e1baf-83d8-4b80-b065-aeaac1df4ba8)
+
+### JS
+![image](https://github.com/user-attachments/assets/cedbd139-65cd-4e95-99c4-54eabb727466)
+
+
+
+
