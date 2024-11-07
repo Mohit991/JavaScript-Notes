@@ -225,6 +225,14 @@ We will link CSS and JS files to our HTML file.
 ### JS
 ![image](https://github.com/user-attachments/assets/6c94e885-7984-4fa3-b93c-198921212601)
 
+## DOM Navigation
+### HTML
+![image](https://github.com/user-attachments/assets/f931e9ce-4bf9-4a47-80f6-6bd1d38ce89f)
+
+### JS
+![image](https://github.com/user-attachments/assets/40a74e3d-86db-4ec8-85ca-07f6d1022790)
+
+
 
 
 
