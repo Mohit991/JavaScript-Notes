@@ -193,27 +193,9 @@ We will link CSS and JS files to our HTML file.
 ### mathUtils.js
 ![image](https://github.com/user-attachments/assets/e22eb897-ce56-4959-a6de-8223521b93f4)
 
+## Sync and Async Code
+![image](https://github.com/user-attachments/assets/f5f15cd9-7ead-48db-bd08-82b626196de6)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Error Handling
+![image](https://github.com/user-attachments/assets/39d20d78-32e8-4621-8ba3-95373d14b8a9)
 
