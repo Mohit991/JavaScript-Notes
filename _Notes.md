@@ -209,6 +209,25 @@ We will link CSS and JS files to our HTML file.
 ### JS
 ![image](https://github.com/user-attachments/assets/cedbd139-65cd-4e95-99c4-54eabb727466)
 
+## DOM
+![image](https://github.com/user-attachments/assets/cba2db22-4604-48ff-bce3-4ca107e6b0e7)
+
+### HTML
+![image](https://github.com/user-attachments/assets/5ca67998-e9a8-479c-b658-7e5230ff97dc)
+
+### JS
+![image](https://github.com/user-attachments/assets/00a53ff0-9890-496b-9833-2bae3e16d6f2)
+
+## Elements Selector
+### HTML
+![image](https://github.com/user-attachments/assets/720d5b34-51ff-4767-bd91-0be6570ce24f)
+
+### JS
+![image](https://github.com/user-attachments/assets/6c94e885-7984-4fa3-b93c-198921212601)
+
+
+
+
 
 
 
