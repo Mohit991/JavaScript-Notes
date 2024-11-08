@@ -271,17 +271,21 @@ We will link CSS and JS files to our HTML file.
 
 ## JSON
 ### Valid JSON Files
-names.json  
-![image](https://github.com/user-attachments/assets/64102c50-c8e1-4e29-ba09-16070dbe48df)  
+names.json<br>
+![image](https://github.com/user-attachments/assets/64102c50-c8e1-4e29-ba09-16070dbe48df)  <br><br>
 
-person.json
-![image](https://github.com/user-attachments/assets/851ad3c7-6c33-47ef-9fd8-762657b0c370)  
+person.json<br>
+![image](https://github.com/user-attachments/assets/851ad3c7-6c33-47ef-9fd8-762657b0c370)  <br><br>
 
-people.json
-![image](https://github.com/user-attachments/assets/6beaf2fe-fb8b-4fd1-a4cc-f7003db45adc)  
+people.json<br>
+![image](https://github.com/user-attachments/assets/6beaf2fe-fb8b-4fd1-a4cc-f7003db45adc)  <br><br>
 
 ### Explaination
-![image](https://github.com/user-attachments/assets/31957871-2e27-4b4c-9043-8ab8be673b04)
+![image](https://github.com/user-attachments/assets/df4277f4-08d5-4e8d-8e41-a7d439d0ff06)
+
+
+
+
 
 
 
