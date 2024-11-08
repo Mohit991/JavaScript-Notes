@@ -193,9 +193,6 @@ We will link CSS and JS files to our HTML file.
 ### mathUtils.js
 ![image](https://github.com/user-attachments/assets/e22eb897-ce56-4959-a6de-8223521b93f4)
 
-## Sync and Async Code
-![image](https://github.com/user-attachments/assets/f5f15cd9-7ead-48db-bd08-82b626196de6)
-
 ## Error Handling
 ![image](https://github.com/user-attachments/assets/39d20d78-32e8-4621-8ba3-95373d14b8a9)
 
@@ -232,10 +229,42 @@ We will link CSS and JS files to our HTML file.
 ### JS
 ![image](https://github.com/user-attachments/assets/40a74e3d-86db-4ec8-85ca-07f6d1022790)
 
+## Add and Change HTML
+### HTML
+![image](https://github.com/user-attachments/assets/26f6cc06-44e1-4a64-b32e-e86eb12f9005)
 
+### JS
+![image](https://github.com/user-attachments/assets/1cf4812e-411d-4fe0-8312-d60857d1eb6a)
 
+## Mouse Events
+### HTML
+![image](https://github.com/user-attachments/assets/438bcaa7-0778-4267-ad02-ad34e87b7342)
 
+### JS
+![image](https://github.com/user-attachments/assets/74776a95-0251-4216-b09b-503fb2d877fd)
 
+## Key Events
+![image](https://github.com/user-attachments/assets/05522288-6040-4ef1-bf62-2eb5743e75dc)
 
+## NodeList
+### HTML
+![image](https://github.com/user-attachments/assets/ec862dcd-0463-4c93-8c99-bec4368e69c1)
 
+### JS
+![image](https://github.com/user-attachments/assets/acb69649-1cb7-4e8e-9262-6b17ef64d8e2)
 
+## Sync and Async Code
+![image](https://github.com/user-attachments/assets/f5f15cd9-7ead-48db-bd08-82b626196de6)
+
+## Callback Hell
+![image](https://github.com/user-attachments/assets/e3c3ab06-3bc6-4822-a3fe-1e43864c0cdf)  
+
+![image](https://github.com/user-attachments/assets/6e74efe6-5dc2-486c-b927-70cfcf28dae1)  
+
+![image](https://github.com/user-attachments/assets/a59136ee-7424-475c-84d7-6e3e58e3c8a3)
+
+## Promises
+![image](https://github.com/user-attachments/assets/974e6338-0c06-40ff-b1ae-cddacd82f3cf)
+
+## Async/Await
+![image](https://github.com/user-attachments/assets/f0951b50-f6e7-4ea9-9cf9-1d154c9e31c6)
