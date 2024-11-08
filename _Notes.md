@@ -176,15 +176,112 @@ We will link CSS and JS files to our HTML file.
 ### Output
 ![{94CF6626-D220-4987-9BD6-158808BC29DB}](https://github.com/user-attachments/assets/3db0bbb1-f7c6-4fe5-9278-823697663bc0)
 
+## Stopwatch (HTML, CSS, JS)
+### HTML
+![image](https://github.com/user-attachments/assets/e84de454-7c7b-4aec-91d6-dabdf4dfaea3)
 
+### CSS
+![image](https://github.com/user-attachments/assets/05c3ee40-a541-47a1-b990-49271d1e659a)
 
+### JS
+![image](https://github.com/user-attachments/assets/7fb2616e-8340-4330-9e15-ffa0cc240c29)
 
+## ES6 Modules
+### index.js
+![image](https://github.com/user-attachments/assets/24729026-fde0-4f93-a74d-6af0f353f3ae)
 
+### mathUtils.js
+![image](https://github.com/user-attachments/assets/e22eb897-ce56-4959-a6de-8223521b93f4)
 
+## Error Handling
+![image](https://github.com/user-attachments/assets/39d20d78-32e8-4621-8ba3-95373d14b8a9)
 
+## Calculator
+### HTML
+![image](https://github.com/user-attachments/assets/2c9512ef-e0e1-4dcc-9c39-83865766eafb)
 
+### CSS
+![image](https://github.com/user-attachments/assets/ca3e1baf-83d8-4b80-b065-aeaac1df4ba8)
 
+### JS
+![image](https://github.com/user-attachments/assets/cedbd139-65cd-4e95-99c4-54eabb727466)
 
+## DOM
+![image](https://github.com/user-attachments/assets/cba2db22-4604-48ff-bce3-4ca107e6b0e7)
+
+### HTML
+![image](https://github.com/user-attachments/assets/5ca67998-e9a8-479c-b658-7e5230ff97dc)
+
+### JS
+![image](https://github.com/user-attachments/assets/00a53ff0-9890-496b-9833-2bae3e16d6f2)
+
+## Elements Selector
+### HTML
+![image](https://github.com/user-attachments/assets/720d5b34-51ff-4767-bd91-0be6570ce24f)
+
+### JS
+![image](https://github.com/user-attachments/assets/6c94e885-7984-4fa3-b93c-198921212601)
+
+## DOM Navigation
+### HTML
+![image](https://github.com/user-attachments/assets/f931e9ce-4bf9-4a47-80f6-6bd1d38ce89f)
+
+### JS
+![image](https://github.com/user-attachments/assets/40a74e3d-86db-4ec8-85ca-07f6d1022790)
+
+## Add and Change HTML
+### HTML
+![image](https://github.com/user-attachments/assets/26f6cc06-44e1-4a64-b32e-e86eb12f9005)
+
+### JS
+![image](https://github.com/user-attachments/assets/1cf4812e-411d-4fe0-8312-d60857d1eb6a)
+
+## Mouse Events
+### HTML
+![image](https://github.com/user-attachments/assets/438bcaa7-0778-4267-ad02-ad34e87b7342)
+
+### JS
+![image](https://github.com/user-attachments/assets/74776a95-0251-4216-b09b-503fb2d877fd)
+
+## Key Events
+![image](https://github.com/user-attachments/assets/05522288-6040-4ef1-bf62-2eb5743e75dc)
+
+## NodeList
+### HTML
+![image](https://github.com/user-attachments/assets/ec862dcd-0463-4c93-8c99-bec4368e69c1)
+
+### JS
+![image](https://github.com/user-attachments/assets/acb69649-1cb7-4e8e-9262-6b17ef64d8e2)
+
+## Sync and Async Code
+![image](https://github.com/user-attachments/assets/f5f15cd9-7ead-48db-bd08-82b626196de6)
+
+## Callback Hell
+![image](https://github.com/user-attachments/assets/e3c3ab06-3bc6-4822-a3fe-1e43864c0cdf)  
+
+![image](https://github.com/user-attachments/assets/6e74efe6-5dc2-486c-b927-70cfcf28dae1)  
+
+![image](https://github.com/user-attachments/assets/a59136ee-7424-475c-84d7-6e3e58e3c8a3)
+
+## Promises
+![image](https://github.com/user-attachments/assets/974e6338-0c06-40ff-b1ae-cddacd82f3cf)
+
+## Async/Await
+![image](https://github.com/user-attachments/assets/f0951b50-f6e7-4ea9-9cf9-1d154c9e31c6)
+
+## JSON
+### Valid JSON Files
+names.json  
+![image](https://github.com/user-attachments/assets/64102c50-c8e1-4e29-ba09-16070dbe48df)  
+
+person.json
+![image](https://github.com/user-attachments/assets/851ad3c7-6c33-47ef-9fd8-762657b0c370)  
+
+people.json
+![image](https://github.com/user-attachments/assets/6beaf2fe-fb8b-4fd1-a4cc-f7003db45adc)  
+
+### Explaination
+![image](https://github.com/user-attachments/assets/31957871-2e27-4b4c-9043-8ab8be673b04)
 
 
 
